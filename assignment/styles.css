@@ -1,0 +1,39 @@
+body {
+  background-image: url("beachsunset.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: auto;
+  height: auto;
+
+}
+
+h1 {
+  color: blueviolet;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  font-family: "Times New Roman";
+  font-size: 20px;
+  text-align: center;
+}
+
+.myDiv1 {
+  text-align: center;
+  display: grid;
+  padding: 1px;
+  margin: 0px;
+}
+
+div.myDiv2 {
+  text-align: center;
+}
+
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+}
